@@ -1,0 +1,12 @@
+#general
+.DS_Store
+.idea
+*.log
+.bak
+*.pid
+*.seed
+.grunt
+
+node_modules/
+npm-debug.log
+.tmp/
